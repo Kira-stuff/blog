@@ -5,8 +5,8 @@ author: "Kira"
 description: "Writeups des challenges du Midnight Flag CTF 2023"
 images: []
 resources:
-featuredImage: "images/midnightctf/feature-image.png"
-featuredImagePreview: "images/midnightctf/feature-image.png"
+featuredImage: "/assets/images/midnightctf/feature-image.png"
+featuredImagePreview: "/assets/images/midnightctf/feature-image.png"
 
 tags: ["writeups", "ctf", "midnightflag"]
 categories: ["writeups"]
