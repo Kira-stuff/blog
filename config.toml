@@ -13,7 +13,7 @@ title = "Kira's Blog"
   name = "Kira"
   email = ""
   link = ""
-
+  
 ################################################
 #                Menu Config                   #
 ################################################
@@ -42,15 +42,14 @@ title = "Kira's Blog"
 #                Menu Langages                 #
 ################################################
 
-# language code ["en", "zh-CN", "fr", "pl", ...]
-languageCode = ["en", "fr"]
 # language name ["English", "简体中文", "Français", "Polski", ...]
-languageName = ["English", "Français"]
+languageName = ["Français", "English"]
+# language code ["en", "zh-CN", "fr", "pl", ...]
+languageCode = ["fr", "en"]
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 defaultContentLanguage = "fr"
 
 [languages]
-
   [languages.fr]
     weight = 1
     title = "Kira's Blog"
@@ -74,7 +73,7 @@ defaultContentLanguage = "fr"
       title = ""
 
   [languages.en]
-    weight = 1
+    weight = 2
     title = "Kira's Blog"
     languageCode = "en"
     languageName = "English"
