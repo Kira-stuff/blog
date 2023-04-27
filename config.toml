@@ -71,7 +71,6 @@ defaultContentLanguage = "fr"
       name = "Posts"
       url = "/posts/"
       title = ""
-
   [languages.en]
     weight = 2
     title = "Kira's Blog"
@@ -93,6 +92,7 @@ defaultContentLanguage = "fr"
       name = "Posts"
       url = "/posts/"
       title = ""
+
 	  
 ################################################
 #                Markup Config                 #
